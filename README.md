@@ -1,1 +1,2 @@
-# asta2.github.io
+# Asta del Mobile
+Deploy automatico su GitHub Pages tramite GitHub Actions.
